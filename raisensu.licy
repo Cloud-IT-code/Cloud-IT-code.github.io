@@ -1,0 +1,9 @@
+var data = {
+    "update": true,
+    "upgrade": false,
+    "dataUpdate": "",
+    "dataUpgrade": "",
+    "version": "",
+    "nextVersion": "",
+    "comment": "",
+}
