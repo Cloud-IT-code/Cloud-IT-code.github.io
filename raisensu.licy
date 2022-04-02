@@ -3,7 +3,7 @@ var data = {
     "upgrade": false,
     "dataUpdate": "",
     "dataUpgrade": "",
-    "version": "",
-    "nextVersion": "",
+    "version": "1.0.0",
+    "nextVersion": "1.1.0",
     "comment": "",
 }
